@@ -162,6 +162,7 @@
 <body>
     <div class="container">
         <header class="header">
+        <!-- simulasi fixbug navbar -->
             <p class="logo">Bengkel Ongel</p>
             <nav>
                 <div class="search-container">
